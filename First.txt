@@ -1,2 +1,12 @@
 This is my first file
 Adding  new line in file
+
+I think I want to add a paragraph about BAPS
+Founder and Successors
+ 1. BHAGWAN SWAMINARAYAN
+ 2. GUNATITANAND SWAMI
+ 3. BHAGATJI MAHARAJ
+ 4. SHASTRIJI MAHARAJ
+ 5. YOGIJI MAHARAJ
+ 6. PRAMUKH SWAMI MAHARAJ
+ 7. MAHANT SWAMI MAHARAJ
